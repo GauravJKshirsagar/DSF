@@ -1,0 +1,5 @@
+Choice 1,2 from menu will give option to select table creation by 2 methods:
+1)w/o replacement
+2)with replacement
+
+Thereafter all operation will be performed wrt selected choice
